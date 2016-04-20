@@ -1,6 +1,7 @@
 id: d7_geshifilter_settings
 label: GeshiFilter
 migration_tags:
+  - Drupal 6
   - Drupal 7
 source:
   plugin: variable
